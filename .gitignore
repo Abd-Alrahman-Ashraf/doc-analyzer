@@ -1,0 +1,9 @@
+token
+credentials
+results.xlsx
+temp/
+__pycache__/
+*.pyc
+credentials.json
+token.json
+
